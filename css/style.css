@@ -1,0 +1,189 @@
+html{
+    background-image:url('http://ramki-photoshop.narod.ru/fon/fon_69.jpg');
+    background-size: cover;
+}
+
+
+header{
+    border: 10px ridge #3e5a42;
+    border-radius:7px;
+    height:100px;
+    background-image: url('http://i.wallpic.net/6/036a/malenkie-volny_730x456.jpg');
+    background-size: cover;
+    
+}
+h1{
+    color: rgb(2, 2, 2);
+    text-transform:uppercase;
+    font-size: 50px;
+    text-align:center;
+    margin:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+input[type="search"]{
+    border:2px solid rgb(126, 16, 16);
+    float: right;
+    margin-right: 150px;
+    height:50px;
+    margin-top: -7px;
+    
+    
+}
+button[class='button']{
+ float:right;
+ margin-top:29px;   
+ width:5%;
+ margin-right:-250px;
+ margin-top: -7px;
+ background-image:url('https://t3.ftcdn.net/jpg/01/15/86/74/240_F_115867417_zYcMbYMsMp337eABaxGNNteN6PIIyxTo.jpg');
+ background-size: cover;
+ height:50px;
+ width:5%;
+}
+
+article{
+    border:8px groove rgb(240, 38, 196);
+    width: 27%;
+    height: 467px;
+    border-radius:20px;
+    background-image: url('http://7oom.ru/powerpoint/fon-dlya-prezentacii-vesna-03.jpg');
+    margin-top:50px;
+    margin-left: 10px;
+    font-style:italic;
+    padding: 30px;
+}
+
+      
+.post{
+    border:8px inset rgb(129, 9, 9);
+    border-radius:20px;
+    height: 465px;
+    background-image:url('http://7oom.ru/powerpoint/fon-dlya-prezentacii-vesna-06.jpg');
+    font-style:italic;
+    position: relative;
+    left: 500px;
+    margin-top:-540px;
+    margin-left:-45px;
+
+}
+    
+.post-1{
+    border:8px outset #1B83C8;
+    border-radius:20px;
+    height: 465px;
+    background-image: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1613712039_25-p-letnii-fon-dlya-prezentatsii-27.jpg');
+    font-style:italic;
+    position: relative;
+    left: 900px;
+    margin-top:-540px;
+    margin-left:3px;
+}
+.post-2{
+    border:8px outset rgb(165, 27, 200);
+    border-radius:20px;
+    height: 700px;
+    background-image: url('https://photoshop-kopona.com/uploads/posts/2017-10/1507700282_20.jpg');
+    font-style:italic;
+    padding-top: 1px;
+    
+}
+.post-3{
+    border:8px outset rgb(165, 27, 200);
+    border-radius:20px;
+    height: 699px;
+    background-image: url('https://static7.depositphotos.com/1003633/737/v/950/depositphotos_7373577-stock-illustration-beautiful-yellow-background-for-a.jpg');
+    font-style:italic;
+    padding-top: 1px;
+    position: relative;
+    left: 500px;
+    margin-top:-745px;
+    margin-left:-45px;
+}
+.post-4{
+    border:8px outset rgb(165, 27, 200);
+    border-radius:20px;
+    height: 699px;
+    background-image: url('http://ramki-vsem.ru/fon/rozovyj-fon23.jpg');
+    font-style:italic;
+    padding-top: 1px;
+    position: relative;
+    left: 900px;
+    margin-top:-745px;
+    margin-left:3px;
+}
+    footer{
+        border:7px solid rgb(43, 33, 20);
+        background-image: url('http://nevseoboi.com.ua/uploads/posts/2012-02/thumbs/1329116430-468731-0035088_www.nevseoboi.com.ua.jpg');
+        background-size: cover;
+        height: 1050px;
+        color:rgb(128, 0, 64);
+        font-size:15px;
+        float:none;
+        margin-top: 70px;
+ }
+ .direction{
+    color:#E99012;
+    text-align:center;
+    font-size:25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .contact{
+    color:rgb(87, 9, 54);
+    text-align:center;
+    font-size:25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ input[type=text]{
+border:4px solid rgb(225, 238, 43);
+width:20%;
+
+ }
+ input[type=text]{
+    border:4px solid rgb(225, 238, 43);
+    width:20%;   
+
+ }
+ input[type=email]{
+    border:4px solid rgb(225, 238, 43);
+    width:20%;
+ }
+ input[type=tel]{
+    border:4px solid rgb(225, 238, 43);
+    width:20%;
+ }
+ input[type=date]{
+    border:4px solid rgb(225, 238, 43);
+ }
+ input[type=time]{
+    border:4px solid rgb(225, 238, 43);
+ }
+ input[type='week']{
+    border:4px solid rgb(225, 238, 43);
+}
+.review{
+    color:#D0FF00;
+    text-align:center;
+    font-size:25px;
+    float: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+button{
+    background-color:#F9FF4B;
+    width:20%;
+    margin-left:440px;
+
+}
+.feedback{
+    color:red;
+    text-align:center;
+    font-size:25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+textarea{
+    background-color: rgb(204, 172, 195);
+    border:4px solid rgb(120, 194, 60);
+    margin-left:370px;
+    
+}
